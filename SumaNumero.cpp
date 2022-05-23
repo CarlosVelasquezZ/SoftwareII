@@ -11,6 +11,7 @@ int main()
     printf( "\n   Introduzca segundo numero (entero): " );
     scanf( "%d", &n2 );
 
+	/*asignando a la variable suma*/
     suma = n1 + n2;
     producto = n1 * n2;
 
