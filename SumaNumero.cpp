@@ -10,7 +10,7 @@ int main()
     scanf( "%d", &n1 );
     printf( "\n   Introduzca segundo numero (entero): " );
     scanf( "%d", &n2 );
-    /*Comentario Wilmer Jiménez*/
+    /*Comentario Wilmer Jiménez Tituañá  ||*/
 
     suma = n1 + n2;
     producto = n1 * n2;
