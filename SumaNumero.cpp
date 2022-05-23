@@ -3,6 +3,7 @@
 
 int main()
 {
+	/*Comentario Sergio Naranjo*/
     int n1, n2, producto, suma;
 
     printf( "\n   Introduzca primer numero (entero): " );
