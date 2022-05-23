@@ -17,6 +17,7 @@ int main()
 
     printf( "\n   La suma es: %d", suma );
     printf( "\n\n   La multiplicaci%cn es: %d", 162, producto );
+	/*Comentario Vverónica Toasa*/
 
     getch(); /* Pausa */
 
