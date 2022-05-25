@@ -4,6 +4,7 @@
 int main()
 {
 	/*Comentario Sergio Naranjo*/
+/* Comentario de Wilmer Jimenez*/
     int n1, n2, producto, suma;
 
     printf( "\n   Introduzca primer numero (entero): " );
