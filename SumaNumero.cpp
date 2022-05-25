@@ -5,7 +5,7 @@ int main()
 {
 	/*Comentario Sergio Naranjo*/
 /* Comentario de Wilmer Jimenez*/
-/*Creacion de la rama*/
+/*Creacion de la rama adsfasdfdsa*/
     int n1, n2, producto, suma;
 
     printf( "\n   Introduzca primer numero (entero): " );
