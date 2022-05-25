@@ -4,13 +4,15 @@
 int main()
 {
 	/*Comentario Sergio Naranjo*/
+/* Comentario de Wilmer Jimenez*/
+/*Creacion de la rama adsfasdfdsa*/
     int n1, n2, producto, suma;
 
     printf( "\n   Introduzca primer numero (entero): " );
     scanf( "%d", &n1 );
     printf( "\n   Introduzca segundo numero (entero): " );
     scanf( "%d", &n2 );
-    /*Comentario Wilmer Jiménez*/
+    /*Comentario Wilmer Jimï¿½nez Tituaï¿½ï¿½  ||*/
 
     suma = n1 + n2;
     producto = n1 * n2;
